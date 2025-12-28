@@ -12,6 +12,22 @@ npm run dev
 	4.	Open: http://localhost:3000
     
 ```bash
+
+## Getting Started
+First, run the development server:
+Run the project (ZIP)
+	1.	Unzip
+	2. Change or rename from .env.local.example to  .env.local
+	2.	Open terminal in the project folder (vtech-todo/)
+	3.	Run:
+
+npm install
+npm run dev
+
+	4.	Open: http://localhost:3000
+
+
+	
 npm run dev
 
 
