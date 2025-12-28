@@ -2,6 +2,7 @@
 First, run the development server:
 Run the project (ZIP)
 	1.	Unzip
+	2. Change or rename from .env.local.example to  .env.local
 	2.	Open terminal in the project folder (vtech-todo/)
 	3.	Run:
 
